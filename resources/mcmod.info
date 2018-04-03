@@ -1,0 +1,16 @@
+[
+{
+  "modid": "terraria",
+  "name": "2D Craft: Reborn",
+  "description": "Example placeholder mod.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tuesday"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
